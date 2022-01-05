@@ -62,4 +62,4 @@ Si vous êtes intéressés par ma formation algorithmique, je vous invite à lir
 
 N'hésitez pas à me contacter si vous avez des questions.
 - Email : jeremy@javascriptdezero.com
-- Twitter : [@jeremy](https://twitter.com/jeremymouzin)
+- Twitter : [@jeremymouzin](https://twitter.com/jeremymouzin)
